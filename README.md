@@ -1,2 +1,2 @@
 # prueba1
-Repositorio de prueba.
+Repositorio de pruebas y experimentos.
